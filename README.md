@@ -1,2 +1,2 @@
-# bootcamps-DIO-anotacões-de-aulas
+# Bootcamps DIO - Anotações de Aulas
 Repositório destinado a anotações relevantes acerca das aulas de programação dos bootcamps da DIO.
